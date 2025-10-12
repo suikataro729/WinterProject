@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Room">
+      <UniqueIdentifier>{b68d34ae-7ec9-4c30-807b-a427ad101488}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\ApplicationMain.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeGame.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ApplicationGlobal.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeEffekseer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeMenu.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeGameOver.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeTitle.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeWindow.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BeltConveyor.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Pizza.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomBase.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomEntrance.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomPizza.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomServer.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Chara.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomSlidePuzzle.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ShiftBlock.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeRoomNumber.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Camera.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomData.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomFan.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomMuseum.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomCalcLabyrinth.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomGrave.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeTalk.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\utf8sjis.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Door.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomCalcHighLevel.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ClassEffekseer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Room\RoomChristmas.cpp">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Sound.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeEnding.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Fade.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ModeFade.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\ApplicationMain.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeGame.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ApplicationGlobal.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeEffekseer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeMenu.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeGameOver.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeTitle.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeWindow.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\BeltConveyor.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Pizza.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomBase.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomEntrance.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomPizza.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomServer.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Chara.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomSlidePuzzle.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ShiftBlock.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeRoomNumber.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Camera.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomData.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomFan.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomMuseum.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomCalcLabyrinth.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomGrave.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeTalk.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\utf8sjis.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Door.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomCalcHighLevel.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ClassEffekseer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Room\RoomChristmas.h">
+      <Filter>ソース ファイル\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Sound.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeEnding.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Fade.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="source\ModeFade.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
