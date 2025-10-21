@@ -47,8 +47,9 @@ DirectX
 
 -------------------------------
 ■起動方法：
-Github上にはコードのみ記載しているので起動しません
-
+[Releasesページ](https://github.com/suikataro729/WinterProject/releases/tag/v1.0)より実行ファイルをダウンロード
+→MugenKaisou.zipフォルダをダウンロード・解凍
+→Game.exeを実行
 -------------------------------
 ■終了方法：
 Alt+F4で終了します。
